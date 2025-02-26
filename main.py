@@ -1,7 +1,5 @@
-#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
-
 import openai
-
+#Hello, Intruder the api code has expired months back,there's no point you trying to copy it xD
 openai.api_key = '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'
 
 def get_chat_response(user_input):
